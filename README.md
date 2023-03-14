@@ -18,7 +18,7 @@ The first part of the code is a queue generation function, given the parameters 
 
 ### Result
 
-![ezcv map](https://github.com/guerreroda/FunProjects/blob/main/2018_Queue.jpg)
+![ezcv map](https://github.com/guerreroda/FunProjects/blob/main/2018_Qmodel.jpg)
 
 ## 2018_Markov.R:
 
@@ -34,6 +34,6 @@ To simulate 10,000 times the process we create a function to generate days in R 
 
 ### Result
 
-![ezcv map](https://github.com/guerreroda/FunProjects/blob/main/MarkovFig.jpg)
+![ezcv map](https://github.com/guerreroda/FunProjects/blob/main/2018_MarkovFig.jpg)
 
 Simulation of two cloudy days after a sunny day.
